@@ -13,3 +13,5 @@ if(isset($_POST['submit'])){
     mail($myMail,$subject,$body,"From: $email\n");
     echo "email sendt - BOOOYAAA!!";
 }
+
+echo "test"; 
