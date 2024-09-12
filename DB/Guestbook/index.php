@@ -5,7 +5,7 @@
     <title>Contact</title>
 </head>
 <body>
-<form name="guest" method="post" action="guest_pro.php">
+<form name="guest" method="post" action="addToDB.php">
     <label for="name">Name: </label>
     <input type="text" id="name" name="name" maxlength="50" size="30">
     <br>
